@@ -106,7 +106,7 @@ body {
   height: 100vh;
   justify-content: right;
   font-family: "Shadows Into Light", sans-serif;
-  background-image: url(./images/lofi.jpg);
+  background-image: url(./images/lofiroom.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
@@ -169,6 +169,7 @@ form {
   background-color: #a27b5c;
   height: 100vh;
   color: white;
+  opacity: 85%;
 }
 
 .signUp {
