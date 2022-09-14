@@ -262,3 +262,21 @@ img {
   margin-left: 55%;
   margin-bottom: -40%;
 }
+
+.signature {
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  color: white;
+  margin-bottom: 1%;
+  margin-left: 18%;
+}
+
+.fa-github:hover {
+  transform: rotate(360deg);
+}
+
+.fa-github {
+  color: white;
+  transition: transform 0.3s ease-in-out;
+}
