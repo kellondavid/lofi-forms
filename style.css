@@ -278,11 +278,11 @@ img {
 
 .signature {
   bottom: 0;
+  position: absolute;
   text-align: center;
   color: white;
   margin-bottom: 1%;
   margin-left: 17%;
-  margin-top: 2%;
 }
 
 .fa-github:hover {
