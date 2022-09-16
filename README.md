@@ -9,3 +9,6 @@ What I learned:
     - how to utilize form inputs (e.g., names, phone numbers, email, password)
     - how to decorate input fields
     - utilizing 'required' in inputs
+    - how to add audio controls in html
+
+Song credit: Daniel Burbank
