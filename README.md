@@ -11,4 +11,4 @@ What I learned:
     - utilizing 'required' in inputs
     - how to add audio controls in html
 
-Song credit: Daniel Burbank
+Song credit: Sorry, I like you - Daniel Burbank
